@@ -107,8 +107,3 @@
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
