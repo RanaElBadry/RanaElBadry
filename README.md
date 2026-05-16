@@ -1,9 +1,7 @@
-<h1 align="center">hey there 👋</h1>
-
 ###
 
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/RanaElBadry/RanaElBadry/refs/heads/main/ChatGPT%20Image%20May%2016%2C%202026%2C%2004_59_51%20PM.png"  />
+  <img height="400" src="https://raw.githubusercontent.com/RanaElBadry/RanaElBadry/refs/heads/main/ChatGPT%20Image%20May%2016%2C%202026%2C%2004_59_51%20PM.png"  />
 </div>
 
 ###
